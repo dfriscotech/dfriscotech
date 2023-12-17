@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/dfriscotech/ActiveDirectoryLab)
 <h2>Education</h2>
 Bachelor of Science (B.S.), Cybersecurity Information Assurance<br>
 CompTIA A+ Network+ Security+ CySA+ Pentest+ Project+ <br>
