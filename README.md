@@ -21,8 +21,7 @@ ITIL4
 
 [youtube]: https://www.youtube.com/c/dfrisco.tech
 [instagram]: https://www.instagram.com/dfrisco.tech/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/dfrisco/)
-
+[linkedin]: https://www.linkedin.com/in/dfrisco/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
