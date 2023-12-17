@@ -4,6 +4,11 @@
 
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>Education</h2>
+Bachelor of Science (B.S.), Cybersecurity Information Assurance<br>
+CompTIA A+ Network+ Security+ CySA+ Pentest+ Project+ <br>
+Associate of ISC2 <br>
+Linux Essentials<br>
+ITIL4
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -11,14 +16,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/c/dfrisco.tech
+[instagram]: https://www.instagram.com/dfrisco.tech/
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/dfrisco/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
