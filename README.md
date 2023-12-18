@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/dfriscotech/ActiveDirectoryLab)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/dfriscotech/ActiveDirectoryLab)
 <h2>Education</h2>
 Bachelor of Science (B.S.), Cybersecurity Information Assurance<br>
 CompTIA A+ Network+ Security+ CySA+ Pentest+ Project+ <br>
@@ -11,7 +11,7 @@ Linux Essentials<br>
 ITIL4
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/@DevanteFriscoTech/featured)
+- [Implementing a SOC and Honeynet in Azure](https://www.youtube.com/@DevanteFriscoTech/featured)
 
 <h2> 🤳 Connect with me:</h2>
 
