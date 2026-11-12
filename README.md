@@ -1,8 +1,8 @@
 # Hi, I'm Devante
 
-**SOC Analyst | AWS Security | Incident Response**
+**SOC Analyst | Cloud Security | Security Operations**
 
-I investigate cloud, identity, endpoint, and network activity in an enterprise SOC. My AWS work includes GuardDuty, CloudTrail, IAM, Security Hub, and VPC Flow Logs. I’m also developing practical AWS investigation training and runbooks to help analysts follow evidence and communicate findings clearly.
+This is where I share my cloud security and security operations labs, projects, and supporting documentation. The projects explore cloud investigations, threat detection, incident response, and secure infrastructure practices.
 
 **[View Frisco Projects](https://d36npgofhcclfp.cloudfront.net/)** · [LinkedIn](https://www.linkedin.com/in/dfrisco/) · [YouTube](https://www.youtube.com/@FriscoSec)
 
@@ -12,10 +12,6 @@ I investigate cloud, identity, endpoint, and network activity in an enterprise S
 - **[GitHub Actions Security Gate Lab](https://github.com/dfriscotech/github-actions-security-gate-lab)** — A hands-on project exploring security checks in CI workflows.
 - **[Git and Terraform Fundamentals](https://github.com/dfriscotech/git-terraform-fundamentals)** — Practice with version control and infrastructure-as-code workflows.
 - **[Azure SOC and Honeynet Lab](https://github.com/dfriscotech/ActiveDirectoryLab)** — A cloud security lab focused on monitoring and investigation.
-
-## Focus Areas
-
-AWS security investigations · Incident response · IAM review · CloudTrail and GuardDuty analysis · Detection and evidence correlation · Analyst training and runbooks · Terraform · GitHub Actions
 
 ## Education
 
