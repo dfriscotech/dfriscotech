@@ -1,38 +1,30 @@
-<h1>Hi, I'm Devante! <br/>Cybersecurity Student and Enthusiast</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# Hi, I'm Devante
 
+**SOC Analyst | AWS Security | Incident Response**
 
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/dfriscotech/ActiveDirectoryLab)
-<h2>Education</h2>
-Bachelor of Science (B.S.), Cybersecurity Information Assurance<br>
-CompTIA A+ Network+ Security+ CySA+ Pentest+ Project+ <br>
-Associate of ISC2 <br>
-Linux Essentials<br>
-ITIL4
-<h2>📺 Popular YouTube Videos</h2>
+I investigate cloud, identity, endpoint, and network activity in an enterprise SOC. My AWS work includes GuardDuty, CloudTrail, IAM, Security Hub, and VPC Flow Logs. I’m also developing practical AWS investigation training and runbooks to help analysts follow evidence and communicate findings clearly.
 
-- [Implementing a SOC and Honeynet in Azure](https://www.youtube.com/@DevanteFriscoTech/featured)
+I use AI tools to streamline development, troubleshoot, review proposed work, and supplement gaps. I remain responsible for the technical direction and validation.
 
-<h2> 🤳 Connect with me:</h2>
+**[View Frisco Projects](https://d36npgofhcclfp.cloudfront.net/)** · [LinkedIn](https://www.linkedin.com/in/dfrisco/) · [YouTube](https://www.youtube.com/@DevanteFriscoTech/featured)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Featured Projects
 
-[youtube]: https://www.youtube.com/c/dfrisco.tech
-[instagram]: https://www.instagram.com/dfrisco.tech/
-[linkedin]: https://www.linkedin.com/in/dfrisco/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Enterprise Cloud SOC Simulation](https://d36npgofhcclfp.cloudfront.net/#lab)** — Active development. AWS investigation design, finding-specific runbooks, and analyst workflows. Components were tested; the full lab is not currently deployed.
+- **[GitHub Actions Security Gate Lab](https://github.com/dfriscotech/github-actions-security-gate-lab)** — A hands-on project exploring security checks in CI workflows.
+- **[Git and Terraform Fundamentals](https://github.com/dfriscotech/git-terraform-fundamentals)** — Practice with version control and infrastructure-as-code workflows.
+- **[Azure SOC and Honeynet Lab](https://github.com/dfriscotech/ActiveDirectoryLab)** — A cloud security lab focused on monitoring and investigation.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AWS security investigations · Incident response · IAM review · CloudTrail and GuardDuty analysis · Detection and evidence correlation · Analyst training and runbooks · Terraform · GitHub Actions
+
+## Education
+
+B.S., Cybersecurity and Information Assurance
+
+## Relevant Credentials
+
+AWS Solutions Architect – Associate · GIAC Cloud Security Essentials (GCLD) · ISC2 SSCP · CompTIA CySA+, Security+, and Network+ · HTB CDSA · TCM PSAA
+
+**In progress:** AWS Certified Security – Specialty
