@@ -4,9 +4,7 @@
 
 I investigate cloud, identity, endpoint, and network activity in an enterprise SOC. My AWS work includes GuardDuty, CloudTrail, IAM, Security Hub, and VPC Flow Logs. I’m also developing practical AWS investigation training and runbooks to help analysts follow evidence and communicate findings clearly.
 
-I use AI tools to streamline development, troubleshoot, review proposed work, and supplement gaps. I remain responsible for the technical direction and validation.
-
-**[View Frisco Projects](https://d36npgofhcclfp.cloudfront.net/)** · [LinkedIn](https://www.linkedin.com/in/dfrisco/) · [YouTube](https://www.youtube.com/@DevanteFriscoTech/featured)
+**[View Frisco Projects](https://d36npgofhcclfp.cloudfront.net/)** · [LinkedIn](https://www.linkedin.com/in/dfrisco/) · [YouTube](https://www.youtube.com/@FriscoSec)
 
 ## Featured Projects
 
